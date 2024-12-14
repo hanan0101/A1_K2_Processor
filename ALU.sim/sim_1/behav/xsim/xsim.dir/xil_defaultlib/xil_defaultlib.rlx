@@ -1,0 +1,27 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_ALU.sv,1733917337,systemVerilog,,,,tb_ALU,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_Mux.sv,1733917657,systemVerilog,,,,tb_Mux,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_Register.v,1733917824,systemVerilog,,,,tb_Register,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_counter_nbit.sv,1733917964,systemVerilog,,,,tb_counter_nbit,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_decoder.sv,1733604825,systemVerilog,,,,tb_decoder,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_ff.sv,1733918946,systemVerilog,,,,tb_ff,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_k2.sv,1733909311,systemVerilog,,,,tb_k2,,,,,,,,
+/home/it/ALU/ALU.srcs/sim_1/new/tb_memory.sv,1733601934,systemVerilog,,,,tb_memory,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/ALU.sv,1733596072,systemVerilog,,/home/it/ALU/ALU.srcs/sources_1/new/FULL_ADD.sv,,ALU,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/ALU_Nbit.sv,1733865558,systemVerilog,,/home/it/ALU/ALU.srcs/sim_1/new/tb_ALU.sv,,ALU_Nbit,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/Adder_4bit.sv,1733586294,systemVerilog,,,,Adder_4bit,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/DFF.sv,1733859577,systemVerilog,,/home/it/ALU/ALU.srcs/sim_1/new/tb_ff.sv,,DFF,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/Decoder.sv,1733907522,systemVerilog,,/home/it/ALU/ALU.srcs/sources_1/new/Memory.sv,,Decoder,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/FULL_ADD.sv,1733586318,systemVerilog,,/home/it/ALU/ALU.srcs/sources_1/new/HA.sv,,FULL_ADD,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/HA.sv,1733586132,systemVerilog,,/home/it/ALU/ALU.srcs/sim_1/new/tb_ALU.sv,,HA,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/Memory.sv,1733913736,systemVerilog,,/home/it/ALU/ALU.srcs/sources_1/new/Mux.sv,,Memory,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/Mux.sv,1733909652,systemVerilog,,/home/it/ALU/ALU.srcs/sim_1/new/tb_Mux.sv,,Mux,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/Register.sv,1733865468,systemVerilog,,/home/it/ALU/ALU.srcs/sim_1/new/tb_Register.v,,Register,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/Top_k2.sv,1733912166,systemVerilog,,/home/it/ALU/ALU.srcs/sources_1/new/counternbit.sv,,Top_k2,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/counternbit.sv,1733852080,systemVerilog,,/home/it/ALU/ALU.srcs/sim_1/new/tb_counter_nbit.sv,,counternbit,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/flags.sv,1733906863,systemVerilog,,/home/it/ALU/ALU.srcs/sources_1/new/tb_flags.sv,,flags,,,,,,,,
+/home/it/ALU/ALU.srcs/sources_1/new/tb_flags.sv,1733918240,systemVerilog,,,,tb_flags,,,,,,,,
